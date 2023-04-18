@@ -2362,7 +2362,7 @@ border-radius: 30px;
   top: 0;
   left: 0;
   height: 100vh;
-  width: 98.70vw;
+  width: 100%;
 }
 .videosection .video-container video {
   height: 100%;
