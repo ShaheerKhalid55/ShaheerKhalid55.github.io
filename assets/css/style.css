@@ -2760,7 +2760,7 @@ a.buy-btn{
   color: #fff;
 }
 
-@media screen and (min-width: 991px) {
+@media screen and (max-width: 1208px) {
    #header .logo {  dispaly:none;  }
 }
 
