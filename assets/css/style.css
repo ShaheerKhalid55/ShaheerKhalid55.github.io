@@ -2762,7 +2762,7 @@ a.buy-btn{
 	
 @media screen and (max-width: 1200px) {
    #header .logo span {  
-	   display:none !important
+	   font-size:20px !important;
      }
 }
 
