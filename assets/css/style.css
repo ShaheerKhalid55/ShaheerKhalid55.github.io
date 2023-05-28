@@ -2761,7 +2761,7 @@ a.buy-btn{
 }
 	
 @media screen and (max-width: 1200px) {
-   #header .logo {  
+   #header .logo #headerlogotext {  
 	   color:red;
      }
 }
