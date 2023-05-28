@@ -2761,8 +2761,14 @@ a.buy-btn{
 }
 
 @media screen and (max-width: 1208px) {
-   #headertext {  
+   #headerlogotext {  
 	   dispaly:none; 
+     }
+}
+	
+@media screen and (max-width: 1200px) {
+   #headerlogotext {  
+	   font-size:20px; 
      }
 }
 
