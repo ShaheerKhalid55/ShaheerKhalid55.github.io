@@ -2761,8 +2761,8 @@ a.buy-btn{
 }
 	
 @media screen and (max-width: 1200px) {
-   #header .logo {  
-	   color:red !important;
+   #header .logo span {  
+	   display:none !important
      }
 }
 
