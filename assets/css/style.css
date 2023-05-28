@@ -2759,4 +2759,9 @@ a.buy-btn{
   background: #FF9800;
   color: #fff;
 }
+
+@media screen and (max-width: 991px) {
+   .logo {  dispaly:none;  }
+}
+
 }
