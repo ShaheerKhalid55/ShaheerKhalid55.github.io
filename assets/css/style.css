@@ -2767,7 +2767,7 @@ a.buy-btn{
 }
 	
 @media screen and (min-width: 1200px) {
-   #headerlogotext span {  
+   .logo #headerlogotext {  
 	   font-size:20px; 
      }
 }
