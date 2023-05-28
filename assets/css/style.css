@@ -2759,16 +2759,10 @@ a.buy-btn{
   background: #FF9800;
   color: #fff;
 }
-
-@media screen and (max-width: 1208px) {
-   #headerlogotext span {  
-	   dispaly:none; 
-     }
-}
 	
 @media screen and (max-width: 1200px) {
    #header .logo {  
-	   font-size:20px; 
+	   color:red;
      }
 }
 
