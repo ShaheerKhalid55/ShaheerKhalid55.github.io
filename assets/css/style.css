@@ -2761,7 +2761,7 @@ a.buy-btn{
 }
 
 @media screen and (min-width: 991px) {
-   .logo {  dispaly:none;  }
+   #header .logo {  dispaly:none;  }
 }
 
 }
